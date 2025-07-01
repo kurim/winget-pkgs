@@ -18,13 +18,13 @@ ArchiveBinariesDependOnPath: true
 Installers:
   - Architecture: x64
     InstallerUrl: https://windows.php.net/downloads/releases/php-8.3.22-Win32-vs16-x64.zip
-    InstallerSha256: bb015407321ab0e2e3227f7c649d88051d2799cf83c3c1b8f29c0938157e16f0
+    InstallerSha256: 71710D47900E2E84D84B5F8B62B3EC8F74BF9D4003EDE37E1757C9F6E5590985
     Dependencies:
       PackageDependencies:
         - PackageIdentifier: Microsoft.VCRedist.2015+.x64
   - Architecture: x86
     InstallerUrl: https://windows.php.net/downloads/releases/php-8.3.22-Win32-vs16-x86.zip
-    InstallerSha256: 18d9439d2631493e3305af701ddad9427b92f8dd4c254247b45ae3f66d5cecc5
+    InstallerSha256: B7B147AD3FC56797DE4AAE685BAAAF983C544F2E4B5F449E9E81375413F15C62
     Dependencies:
       PackageDependencies:
         - PackageIdentifier: Microsoft.VCRedist.2015+.x86
